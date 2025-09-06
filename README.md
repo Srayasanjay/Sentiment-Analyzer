@@ -1,4 +1,5 @@
-REVIEW SENTIMENT ANALYSER
+#REVIEW SENTIMENT ANALYZER
+
 Uses different ML classfication and clustering methods (Supervised and unsupervised) to classify reviews into positive, negative or neutral and use Regression methods to predict the rating the user would give.
 Supervised and unsupervised are done seperately. More accuracy is obtained for supervised techniques.
 
